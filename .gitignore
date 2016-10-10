@@ -1,4 +1,8 @@
 *.class
+wechatmall/target
+wechatmall/.project
+wechatmall/.settings
+wechatmall/.classpath
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
